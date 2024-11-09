@@ -1,10 +1,3 @@
-// Integrantes:
-// Daniel Soares    RA:2760482411011
-// Natalia Raissa   RA:2760482411013
-
-// Este programa permite o cadastramento, inativação e visualização dos veículos
-// ativos do estacionamento.
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
